@@ -1,0 +1,11 @@
+C:\Projects\DockerTest03\bin\Debug\netcoreapp2.0\DockerTest03.deps.json
+C:\Projects\DockerTest03\bin\Debug\netcoreapp2.0\DockerTest03.runtimeconfig.json
+C:\Projects\DockerTest03\bin\Debug\netcoreapp2.0\DockerTest03.runtimeconfig.dev.json
+C:\Projects\DockerTest03\bin\Debug\netcoreapp2.0\DockerTest03.dll
+C:\Projects\DockerTest03\bin\Debug\netcoreapp2.0\DockerTest03.pdb
+C:\Projects\DockerTest03\obj\Debug\netcoreapp2.0\DockerTest03.csproj.CoreCompileInputs.cache
+C:\Projects\DockerTest03\obj\Debug\netcoreapp2.0\DockerTest03.AssemblyInfoInputs.cache
+C:\Projects\DockerTest03\obj\Debug\netcoreapp2.0\DockerTest03.AssemblyInfo.cs
+C:\Projects\DockerTest03\obj\Debug\netcoreapp2.0\DockerTest03.dll
+C:\Projects\DockerTest03\obj\Debug\netcoreapp2.0\DockerTest03.pdb
+C:\Projects\DockerTest03\obj\Debug\netcoreapp2.0\DockerTest03.csprojResolveAssemblyReference.cache
